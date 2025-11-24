@@ -27,3 +27,4 @@ ollama pull gemma2:2b
 ollama pull flux
 
 ollama pull sdxl
+
